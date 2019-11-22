@@ -8,3 +8,5 @@ https://docs.google.com/document/d/19bPX-2DLH0vQbBnxzNM5bdAXQyd3XJeD0EQEcpME4-Q/
 https://docs.google.com/document/d/1kKO5BpPo_cu-mzyyLTndhYLZEiuD6nx_9LxlNske33s/edit?usp=sharing
 ## Lab 4 report link:
 https://docs.google.com/document/d/1dlaYFzp9VksUzfhIvL7NTc14LAkIovgoFsPR1VZux0I/edit?usp=sharing
+## Lab 5 report link:
+https://docs.google.com/document/d/1jNj-BHbjcK1ZTGvHHsbcyRmJrUHzffKSnXRQOVKDqAM/edit?usp=sharing
