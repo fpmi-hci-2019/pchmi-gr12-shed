@@ -10,3 +10,5 @@ https://docs.google.com/document/d/1kKO5BpPo_cu-mzyyLTndhYLZEiuD6nx_9LxlNske33s/
 https://docs.google.com/document/d/1dlaYFzp9VksUzfhIvL7NTc14LAkIovgoFsPR1VZux0I/edit?usp=sharing
 ## Lab 5 report link:
 https://docs.google.com/document/d/1jNj-BHbjcK1ZTGvHHsbcyRmJrUHzffKSnXRQOVKDqAM/edit?usp=sharing
+## Lab 6, 7, 8 (projet final):
+https://github.com/NikitaDoroshkin/yachting-django
